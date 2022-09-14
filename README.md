@@ -1,3 +1,3 @@
-th align="center">Katildigim projeler</h1>
+<h1 align="center">Katıldığım Projeler</h1>
 
 ## Başlık
